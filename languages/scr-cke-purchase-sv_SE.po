@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: SCR Camping Key Europe Purchase\n"
+"POT-Creation-Date: 2016-06-12 18:42+0200\n"
+"PO-Revision-Date: 2016-06-12 18:48+0200\n"
+"Language-Team: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: scr-cke-purchase.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Erik Bernskiold <erik@bernskioldmedia.com>\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin/class-settings.php:24
+msgid "Camping Key Europe Purchase"
+msgstr "Camping Key Europe-köp"
+
+#: inc/admin/class-settings.php:25
+msgid "CKE Purchase"
+msgstr "CKE-köp"
+
+#: inc/admin/class-settings.php:42
+msgid "Settings"
+msgstr "Inställningar"
+
+#: inc/admin/class-settings.php:49
+msgid "Organization ID"
+msgstr "Organisations-ID"
+
+#: inc/admin/class-settings.php:55
+msgid ""
+"From SCR you are given an organization ID. You need to enter it here for "
+"this plugin to work."
+msgstr ""
+"Från SCR får du ett eget organisation-ID. Du måste ange det här för detta "
+"plugin skall fungera."
+
+#: inc/admin/class-settings.php:91
+msgid "SCR Camping Key Europe Purchase Settings"
+msgstr "SCR Camping Key Europe Köp-inställningar"
+
+#: inc/admin/class-settings.php:92
+msgid ""
+"This plugin adds all the technical bits for your Camping Key Europe purchase "
+"lightbox for WordPress. Just enter your Organization ID below and use the "
+"codes to get started."
+msgstr ""
+"Detta tillägg lägger till alla tekniska bitarna för köpfunktionaliteten av "
+"Camping Key Europe från SCR, för WordPress. Bara fyll i ditt organisations-"
+"ID nedan och börja använda en av de möjliga shortcodes för att komma igång."
+
+#: inc/admin/class-settings.php:95
+msgid "How-to"
+msgstr "Guide"
+
+#: inc/admin/class-settings.php:96
+msgid ""
+"This plugin gives you a shortcode that can be used anywhere, on pages and in "
+"sidebar widgets, to display either a text link or banner to the purchasing "
+"iframe."
+msgstr ""
+"Tillägget ger till en shortcode som kan användas överallt, på sidor eller i "
+"widgets för att visa antingen en textlänk, eller en bildbanner för köp-"
+"iframen."
+
+#: inc/admin/class-settings.php:97
+msgid ""
+"The shortcode be configured with a few parameters, which will control how it "
+"show. The langauge parameter is optional, while the text or banner parameter "
+"is mandatory."
+msgstr ""
+"Shortcoden konfigureras med ett par parametrar som styr hur den visas. "
+"Språkparametern är valfri, medan text eller banner-parametrarna är "
+"obligatoriska."
+
+#: inc/admin/class-settings.php:99
+msgid "Text Link"
+msgstr "Textlänk"
+
+#: inc/admin/class-settings.php:100
+msgid ""
+"To create a text link, just add the shortcode where you want the link. The "
+"text parameter lets you change what the link will say."
+msgstr ""
+"För att skapa en textlänk, placera shortcoden där du vill ha länken. Text-"
+"parametern låter dig ändra vad länken säger."
+
+#: inc/admin/class-settings.php:103
+msgid "Image Banner"
+msgstr "Bildbanner"
+
+#: inc/admin/class-settings.php:104
+msgid ""
+"To create an image banner, you need to use the following shortcode. You may "
+"select one of the three banners (1,2 or 3) to enter as an option."
+msgstr ""
+"För att skapa en bildbanner behöver du använda följande shortcode. Du kan "
+"välja mellan en av tre banners (1,2 eller 3) som alternativ."
+
+#: inc/admin/class-settings.php:107
+msgid "Select Language (optional)"
+msgstr "Välj språk (valfritt)"
+
+#: inc/admin/class-settings.php:108
+msgid ""
+"By default, the link will try and load the content in the same language that "
+"your website is in. If you want to override this, you may set a custom "
+"language. We support: Swedish (code: se), German (code: de) and English "
+"(code: en)"
+msgstr ""
+"Som standard kommer länken att försöka ladda innehållet på samma språk som "
+"din webbplats är på. Om du vill skriva över detta kan du sätta ett eget "
+"språk. Vi stödjer: Svenska (kod: se), tyska (kod: de) och engelska (kod: en)."
+
+#: inc/admin/class-settings.php:124
+msgid "Toggle panel: Banners"
+msgstr "Växla panel: Banners"
+
+#: inc/admin/class-settings.php:124
+msgid "Banners"
+msgstr "Banners"
+
+#: inc/admin/class-settings.php:126
+msgid ""
+"These are the available banners and their respective number code, shown here "
+"in English."
+msgstr ""
+"Dessa är de banners som finns tillgängliga att använda samt dess sifferkod, "
+"här på engelska."
+
+#. Plugin Name of the plugin/theme
+msgid "SCR Camping Key Europe Purchase"
+msgstr "SCR Camping Key Europe-köp"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.scr.se"
+msgstr "http://www.scr.se"
+
+#. Description of the plugin/theme
+msgid ""
+"A WordPress plugin to help campsite owners integrate the Camping Key Europe "
+"purchase functionality by SCR."
+msgstr ""
+"Ett WordPress-tillägg som hjälper campingplatsägare integrera "
+"köpfunktionaliteten för Camping Key Europe, gjort av SCR."
+
+#. Author of the plugin/theme
+msgid "SCR"
+msgstr "SCR"
